@@ -9,8 +9,7 @@ void main() {
 class MainApp extends StatelessWidget {
 
   static const bool   falso = false; 
-  static const String rutaCard = '/card';
-  static const String buttons = '/buttons';
+
 
   const MainApp({super.key});
 
